@@ -1,0 +1,36 @@
+{
+  "name": "@storybook/addon-code",
+  "version": "5.0.0",
+  "description": "Write code for your Storybook stories.",
+  "keywords": [
+    "addon",
+    "code",
+    "storybook"
+  ],
+  "homepage": "https://github.com/storybooks/storybook/tree/master/addons/code",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/storybooks/storybook/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/storybooks/storybook.git"
+  },
+  "license": "MIT",
+  "main": "dist/index.js",
+  "jsnext:main": "src/index.js",
+  "scripts": {
+    "prepare": "node ../../scripts/prepare.js"
+  },
+  "dependencies": {
+    "@emotion/styled": "^0.10.6",
+    "@storybook/addons": "5.0.0",
+    "marked": "^0.5.1",
+    "prop-types": "^15.6.2"
+  },
+  "peerDependencies": {
+    "react": "*"
+  }
+}

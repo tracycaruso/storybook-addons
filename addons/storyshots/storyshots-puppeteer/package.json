@@ -1,0 +1,35 @@
+{
+  "name": "@storybook/addon-storyshots-puppeteer",
+  "version": "5.0.0",
+  "description": "Image snappshots addition to StoryShots base on puppeteer",
+  "keywords": [
+    "addon",
+    "storybook"
+  ],
+  "homepage": "https://github.com/storybooks/storybook/tree/master/addons/storyshorts/storyshots-puppeteer",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/storybooks/storybook/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/storybooks/storybook.git"
+  },
+  "license": "MIT",
+  "main": "dist/index.js",
+  "jsnext:main": "src/index.js",
+  "scripts": {
+    "prepare": "node ../../../scripts/prepare.js"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.1.2",
+    "@storybook/node-logger": "5.0.0",
+    "jest-image-snapshot": "^2.6.0",
+    "puppeteer": "^1.9.0"
+  },
+  "peerDependencies": {
+    "@storybook/addon-storyshots": "^4.0.0"
+  }
+}
