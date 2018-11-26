@@ -26,5 +26,6 @@
     "@storybook/channels": "5.0.1",
     "global": "^4.3.2",
     "json-stringify-safe": "^5.0.1"
-  }
+  },
+  "gitHead": "b4e15325e9b3863fa83b42c73de835bef82a4b6b"
 }

@@ -27,5 +27,6 @@
     "chalk": "^2.4.1",
     "npmlog": "^4.1.2",
     "pretty-hrtime": "^1.0.3"
-  }
+  },
+  "gitHead": "b4e15325e9b3863fa83b42c73de835bef82a4b6b"
 }

@@ -72,5 +72,6 @@
     "@storybook/riot": "5.0.1",
     "@storybook/ui": "5.0.1",
     "@storybook/vue": "5.0.1"
-  }
+  },
+  "gitHead": "b4e15325e9b3863fa83b42c73de835bef82a4b6b"
 }

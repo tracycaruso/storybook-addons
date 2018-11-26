@@ -25,5 +25,6 @@
   "dependencies": {
     "@babel/runtime": "^7.1.2",
     "jscodeshift": "^0.5.1"
-  }
+  },
+  "gitHead": "b4e15325e9b3863fa83b42c73de835bef82a4b6b"
 }

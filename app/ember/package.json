@@ -38,5 +38,6 @@
     "babel-plugin-ember-modules-api-polyfill": "^2.4.0",
     "ember-cli-htmlbars-inline-precompile": "^1.0.3",
     "ember-source": "^3.4.0"
-  }
+  },
+  "gitHead": "b4e15325e9b3863fa83b42c73de835bef82a4b6b"
 }

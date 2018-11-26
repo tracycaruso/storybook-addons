@@ -52,5 +52,6 @@
   },
   "peerDependencies": {
     "babel-loader": "^7.0.0 || ^8.0.0"
-  }
+  },
+  "gitHead": "b4e15325e9b3863fa83b42c73de835bef82a4b6b"
 }

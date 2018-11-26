@@ -41,5 +41,6 @@
     "@storybook/react": "5.0.1",
     "enzyme-to-json": "^3.3.4",
     "react": "^16.6.0"
-  }
+  },
+  "gitHead": "b4e15325e9b3863fa83b42c73de835bef82a4b6b"
 }
