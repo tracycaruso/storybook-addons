@@ -1,6 +1,6 @@
 {
   "name": "@storybook/addon-code",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Write code for your Storybook stories.",
   "keywords": [
     "addon",
@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@emotion/styled": "^0.10.6",
-    "@storybook/addons": "5.0.0",
+    "@storybook/addons": "5.0.1",
     "marked": "^0.5.1",
     "prop-types": "^15.6.2"
   },
